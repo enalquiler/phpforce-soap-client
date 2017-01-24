@@ -15,7 +15,7 @@
         "type": "git",
         "url": "git@github.com:enalquiler/phpforce-common.git",
         "vendor-alias": "phpforce/common"
-    }
+    },
     "require": {
         "php": ">=5.3.0",
         "phpforce/common": "^1.0",
